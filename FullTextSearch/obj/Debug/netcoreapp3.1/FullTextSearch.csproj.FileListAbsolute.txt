@@ -1,0 +1,16 @@
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.exe
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.deps.json
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.runtimeconfig.json
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.runtimeconfig.dev.json
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.dll
+D:\C#\FullTextSearch\FullTextSearch\bin\Debug\netcoreapp3.1\FullTextSearch.pdb
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.csproj.AssemblyReference.cache
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.Form1.resources
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.csproj.GenerateResource.cache
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.AssemblyInfoInputs.cache
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.AssemblyInfo.cs
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.csproj.CoreCompileInputs.cache
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.dll
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.pdb
+D:\C#\FullTextSearch\FullTextSearch\obj\Debug\netcoreapp3.1\FullTextSearch.genruntimeconfig.cache
